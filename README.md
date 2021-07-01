@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**#Skills:**
+**#Hard Skills:**
 
  - Working as Marketing Specialist now. I create blog and social media content (text, 2D and 3D graphics) in both  Polish an English language.
  - Knowledge about SEO, Social Media Marketing and Wordpress.
@@ -29,11 +29,11 @@ Here are some ideas to get you started:
  - I find myself confident in documentation in english.
  - I finished Junior Web Developer Course (at John’s Academy)
 
-**#Inne umiejętności:**
+**#Soft Skills:**
  - Good team player, I am trying adapt Agile mindset to my work (being high productive, self efficient and flexible).
  - I worked as leader / foreman in forestry.
- -
- **#Free time*
+ 
+**#Free time:**
  - I work hard to be good husband and super daddy!
  - Saving world and brewing beer.
  
