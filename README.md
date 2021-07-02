@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **#Hard Skills:**
-
+ - First of all check my portfolio on https://grombor.github.io/
  - Working as Marketing Specialist now. I create blog and social media content (text, 2D and 3D graphics) in both  Polish an English language.
  - Knowledge about SEO, Social Media Marketing and Wordpress.
  - Very good written and spoken english. 
- - Problem solving skills and Manual testing (Selenium). Please see: https://github.com/grombor/selenium
+ - Problem solving skills and Manual testing (Selenium). (on https://github.com/grombor/selenium )
  - I can use various web browser (as Chrome, Mozilla, Opera, IE) on various OS (as Windows, Linux, Android).
  - I am working on: Eclipse, Netbeans, Visual Studio Code, Android Studio, XAMP/LAMP, Angular CLI, NPM, Photoshop and many more.
  - I find myself confident in documentation in english.
