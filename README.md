@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  - I can use various web browser (as Chrome, Mozilla, Opera, IE) on various OS (as Windows, Linux, Android).
  - I am working on: Eclipse, Netbeans, Visual Studio Code, Android Studio, XAMP/LAMP, Angular CLI, NPM, Photoshop and many more.
  - I find myself confident in documentation in english.
- - I finished Junior Web Developer Course (at John’s Academy)
+ - I finished Junior Web Developer Course (at John’s Academy.com)
 
 **#Soft Skills:**
  - Good team player, I am trying adapt Agile mindset to my work (being high productive, self efficient and flexible).
