@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Kamil Marchel
-I finished Junior Web Developer Course 
+I am Kamil Marchel, a hobbyist coder. 
 I am learning to become Junior Manual Tester or Junior WebDev at the moment. 
 **🤔 I am opened to job offers.**
 
@@ -21,13 +20,15 @@ Here are some ideas to get you started:
 **#Hard Skills:**
  - First of all check my portfolio on https://grombor.github.io/
  - Working as Marketing Specialist now. I create blog and social media content (texts, movies, 2D and 3D graphics) in Polish an English language.
- - Knowledge about SEO, Social Media Marketing, Wordpress.
+ - Knowledge about ISTQB syllabus, SEO, Social Media Marketing, Wordpress.
  - Very good written and spoken english. 
- - Problem solving skills and Manual testing (Selenium). (on https://github.com/grombor/selenium )
+ - Good problem solving skills
+ - familliar with Manual testing (a bit of Postman and Selenium too). (on https://github.com/grombor/selenium )
  - I can use various web browser (as Chrome, Mozilla, Opera, IE) on various OS (as Windows, Linux, Android).
  - I am worked on: Eclipse, Visual Studio Code, Selenium, Postman, Android Studio, XAMP/LAMP, Angular CLI, NPM, Photoshop and many more.
  - I find myself confident in documentation in english.
  - I finished Junior Web Developer Course (at John’s Academy.com)
+ - learning to become a Manual tester
 
 **#Soft Skills:**
  - Good communication, enthusiast of new solutions
