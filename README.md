@@ -1,7 +1,7 @@
 ## Hi, I am Kamil 👋
 ### I’m currently working as Marketing Manager and Tester on CRM web-app targeted to car workshops. I am learning software testing at the moment. 
 
-**🤔 I am working as a Marketing Specialist at metal furniture manufacturer. I create blog and social media content (texts, movies, 2D and 3D graphics) in Polish and English.**
+**🤔 I work as Marketing Specialist. My job is to inspire, inform, and acquire customers. In the future I pretend to be an Automation Tester. **
 
 <!--
 **grombor/grombor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
