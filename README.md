@@ -1,7 +1,7 @@
 ## Hi, I am Kamil 👋
-### I’m currently working as Marketing Manager and Tester on CRM web-app targeted to car workshops. I am learning software testing at the moment. 
+### In a Clanhouse I am engagement as Marketing Manager and Tester on a CRM project for workshops. I am coding enthusiast and I am learning React & software testing at the moment. In the future I pretend to be an Automation Tester of Front-end dev. 
 
-**🤔 I work as Marketing Specialist. My job is to inspire, inform, and acquire customers. In the future I pretend to be an Automation Tester. **
+**🤔 I work as Marketing Specialist. My job is to inspire, inform, and acquire customers. Mainly I create blogs, graphics, illustrations and movies.**
 
 <!--
 **grombor/grombor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,5 +56,6 @@ Here are some ideas to get you started:
 - I am currently learning to become a Manual tester (and some React 😄 )
 
 
-** #How to reach me: **
+**#How to reach me:**
+- email me: doparteru@gmail.com
 - 🔗 Please check my portfolio on https://grombor.github.io/ 
