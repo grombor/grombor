@@ -1,5 +1,5 @@
 ## Hi, I am Kamil 👋
-### In a Clanhouse I am engagement as Marketing Manager and Tester on a CRM project for workshops. I am coding enthusiast and I am learning React & software testing at the moment. In the future I pretend to be an Automation Tester of Front-end dev. 
+### In a Clanhouse I am engage as Marketing Manager and Tester on a CRM project for workshops. I am coding enthusiast and I am learning React & software testing at the moment. In the future I pretend to be an Automation Tester of Front-end dev. 
 
 **🤔 I work as Marketing Specialist. My job is to inspire, inform, and acquire customers. Mainly I create blogs, graphics, illustrations and movies.**
 
