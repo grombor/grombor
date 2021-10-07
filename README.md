@@ -1,8 +1,8 @@
 ## Hi, I am Kamil 🤗
-### I am engage on the Clanhouse as Marketing Manager and Tester on a CRM project for workshops. In the future I wish to become a gear in a IT industry. 
+### I am engage on the Clanhouse as Marketing Manager and Tester. In the future I wish to become a gear in a IT industry. 
 
 ** I work as Marketing Specialist.
-My job is to inspire, inform, and acquire customers. 💡 Mainly I create blogs, graphics, illustrations and movies.**
+My job is to inspire, inform, and acquire customers. 💡 I create blogs, graphics, illustrations and movies. In the future I am going to be a product manager.**
 
 <!--
 **grombor/grombor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 - I am using Digital Marketing and SEO techniques in my ever-day job.
 - I am learnign about ISTQB (foudation level) and software testing. I am familliar with Manual testing (Postman and Selenium too). 
 - I find myself confident in documentation in english.
+- I am learning Python amd SCRUM moethodology.
 - I finished Junior Web Developer Course (at John’s Academy.com)
 
 **#Experience**
 - I am Marketing Manager / Tester in a Clanhouse
-- Marketing / Tester in Mecha-CRM project at Clanhouse
+- Marketing Specialist at Malow
 - Refresh and responsive version of "Polska strona Kazika B." website at https://sai.5v.pl
 - I created online portfolio at https://grombor.github.io
 
@@ -42,15 +43,15 @@ Here are some ideas to get you started:
 
 **#Soft Skills:**
 - 🇬🇧 Very good written and spoken English. 
-- 📢 Good communication, enthusiast of new solutions.
-- 👨‍💼 Work in a marketing sections learnt me to be creative, assertive, empathetic and how to design, follow the trends and communicate with people by different channels.
+- 📢 Good communication skills, openminded, enthusiast of new solutions.
+- 👨‍💼 Work in a marketing sections learnt me to be creative, assertive, business empathy, follow the trends and communicate with people by different teams and channels.
 - 🤔 I am trying to adapt an Agile mindset to my everyday work (being high productive, self-efficient and flexible).
 - 👷 I worked before as a leader/foreman in forestry and as a warehouse operative. I have engineer degree.
  
 **#Free time:**
 - 👨‍👨‍👧 I work hard to be a good husband and super daddy!
 - 🍺 Fighting with dehydration by brewing beer (locally).
-- 🌱 I am currently learning a manual testing (and some React 😄 )
+- 🌱 I am currently learning a manual testing (and Python 😄 )
 
 
 **#How to reach me:**
