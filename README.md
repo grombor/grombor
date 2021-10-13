@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 - I find myself confident in documentation in english.
 - I am learning Python amd SCRUM methodology.
 - I finished Junior Web Developer Course (at John’s Academy.com)
+- I aquired CGE Certified Product Manager - Faculty of Management, Warsaw University of Technology
 
 **#Experience**
-- I am Marketing Manager / Tester in a Clanhouse
-- Marketing Specialist at Malow
+- I am Marketing Manager / Tester in a https://github.com/Clanhouse
+- Marketing Specialist at https://malow.com.pl/
 - Refresh and responsive version of "Polska strona Kazika B." website at https://sai.5v.pl
 - I created online portfolio at https://grombor.github.io
 
