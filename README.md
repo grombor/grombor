@@ -1,5 +1,5 @@
 ## Hi, I am Kamil 🤗
-### I am engage on the Clanhouse as Marketing Manager and Tester. In the future I wish to become a gear in a IT industry. 
+### I am engaged at the Clanhouse as Marketing Manager and Tester. In the future I wish to take a seat in a IT industry. 
 
 ** I work as Marketing Specialist.
 My job is to inspire, inform, and acquire customers. 💡 I create blogs, graphics, illustrations and movies. In the future I am going to be a product manager.**
