@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - I am using Digital Marketing and SEO techniques in my ever-day job.
 - I am learnign about ISTQB (foudation level) and software testing. I am familliar with Manual testing (Postman and Selenium). 
 - I find myself confident in documentation in english.
-- I am learning Python amd SCRUM methodology.
+- I am learning Python at the moment.
 - I finished Junior Web Developer Course (at John’s Academy.com)
 - I aquired CGE Certified Product Manager - Faculty of Management, Warsaw University of Technology
 
