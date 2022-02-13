@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 **#Experience**
 - I am Marketing Manager / Tester in a https://github.com/Clanhouse
-- Marketing Specialist at https://malow.com.pl/
+- Product Manager at https://malow.com.pl/
 - Refresh and responsive version of "Polska strona Kazika B." website at https://sai.5v.pl
 - I created online portfolio at https://grombor.github.io
 
