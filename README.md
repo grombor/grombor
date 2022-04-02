@@ -1,8 +1,8 @@
 ## Hi, I am Kamil 🤗
 ### I am engaged at the Clanhouse as Marketing Manager and Tester at the moment. In the future I wish to take a seat in a IT industry.
 
-** I work as Marketing Specialist.
-My job is to inspire, inform, and acquire customers. 💡 I create blogs, graphics, illustrations and movies.**
+** I work as Product Manager.
+My job is to inspire, inform, and acquire customers. 💡 I create content (blogs, graphics, illustrations and movies) and server as trusted source of product info**
 
 <!--
 **grombor/grombor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 -->
 
 **#Hard Skills:**
-- I am using Digital Marketing and SEO techniques in my ever-day job.
+- I am using Digital Marketing and some SEO techniques in my ever-day job.
 - I am learnign about ISTQB (foudation level) and software testing. I am familliar with Manual testing (Postman and Selenium). 
 - I find myself confident in documentation in english.
-- I am learning Python at the moment.
+- I am learning Python at the moment (+ Django + BeatifulSoup).
 - I finished Junior Web Developer Course (at John’s Academy.com)
 - I aquired CGE Certified Product Manager - Faculty of Management, Warsaw University of Technology
 
@@ -51,8 +51,7 @@ Here are some ideas to get you started:
  
 **#Free time:**
 - 👨‍👨‍👧 I work hard to be a good husband and super daddy!
-- 🍺 Fighting with dehydration by brewing beer (locally).
-- 🌱 I am currently learning how to be a Product Manager (with some Python for data analize 😄) and manual tester.
+- 🍺 Brewing beer at home.
 
 
 **#How to reach me:**
