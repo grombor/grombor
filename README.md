@@ -1,8 +1,8 @@
 ## Hi, I am Kamil 🤗
-### I am engaged at the Clanhouse as Marketing Manager and Tester at the moment. In the future I wish to take a seat in a IT industry.
+I am learning Python at the moment. In my free time I am engaged at the Clanhouse as Marketing Manager and Tester at the moment. My goal is to automate testing using PyTest and Selenium and create tests schema. In the future I am going to go deeper into back-end or cyber-security testing.
 
-** I work as Product Manager.
-My job is to inspire, inform, and acquire customers. 💡 I create content (blogs, graphics, illustrations and movies) and server as trusted source of product info**
+### I work as Product Manager. ###
+As a Product Manager I usually work on the use of leverage in sales in various distribution channels. I take care of the completeness of the offer and product development by conducting market research, competition analysis and the design of new functions and product improvements. I manage a product category, conduct market and competition analyzes, and follow trends. I conduct internal trainings, including the sales department. I take care of the brand image, create and supervise marketing campaigns.
 
 <!--
 **grombor/grombor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,25 +19,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**#Experience**
+- Last Python project (under develop) - Web Scrapper: https://github.com/grombor/mc-webscrapper
+- Python project - Web Chat: https://github.com/grombor/python/tree/master/sockets
+- Python project - Checkers game: https://github.com/grombor/python/tree/master/checkers_challenge
+- Marketing Manager / Tester at Clanhouse: A CRM app for car workshops https://github.com/Clanhouse/mecha-crm-app
+- I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of https://szkola.malow.com.pl/
+- I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of module automating the work of the remote batch render in the 3DS MAX program
+- I worked on update of a http://sai.5v.pl/ website: https://github.com/grombor/kazik
+- I develop my portfolio: https://grombor.github.io/
+
+
+
 **#Hard Skills:**
-- I am using Digital Marketing and some SEO techniques in my ever-day job.
+- I am learning Python at the moment (+ Django + BeatifulSoup + PostGres + some Jenkins).
 - I am learnign about ISTQB (foudation level) and software testing. I am familliar with Manual testing (Postman and Selenium). 
 - I find myself confident in documentation in english.
-- I am learning Python at the moment (+ Django + BeatifulSoup).
 - I finished Junior Web Developer Course (at John’s Academy.com)
-- I aquired CGE Certified Product Manager - Faculty of Management, Warsaw University of Technology
-
-**#Experience**
-- I am Marketing Manager / Tester in a https://github.com/Clanhouse
-- Product Manager at https://malow.com.pl/
-- Refresh and responsive version of "Polska strona Kazika B." website at https://sai.5v.pl
-- I created online portfolio at https://grombor.github.io
+- I aquired Scrum Fundamentals Certified (SFC™) issued by SCRUMstudy 
+- I aquired CGE Certified Product Manager - Faculty of Management, issued by Warsaw University of Technology
 
 **#Languages and Tools:**
-  * <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+* <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="beatiful soup" width="40" height="40" />
+* <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" />
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  alt="git hub" width="40" height="40"/>
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40" />
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   
