@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 **#Experience**
 - (REACTjs/NEXTjs): my first e-commerce commercial project (https://youtu.be/x1XJCbEXe4s)
-- (Python) Web Scrapper: [https://github.com/grombor/mc-webscrapper](Web Scrapper)
-- (Python) Socket Offline Web Chat: [https://github.com/grombor/python-sockets](Socket Offline Web Chat)
-- (Python) Checkers game: [https://github.com/grombor/python/tree/master/checkers_challenge](Checkers game)
+- (Python) Web Scrapper: ["https://github.com/grombor/mc-webscrapper"](Web Scrapper)
+- (Python) Socket Offline Web Chat: [https://github.com/grombor/python-sockets] (Socket Offline Web Chat)
+- (Python) Checkers game: [https://github.com/grombor/python/tree/master/checkers_challenge] (Checkers game)
 - Marketing Manager / Tester at Clanhouse: A CRM app for car workshops https://github.com/Clanhouse/mecha-crm-app
 - (Testing) I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of https://szkola.malow.com.pl/
 - (Testing) I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of module automating the work of the remote batch render in the 3DS MAX program
