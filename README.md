@@ -2,7 +2,7 @@
 I am learning Python at the moment. In my free time I am engaged at the Clanhouse as Marketing Manager and Tester at the moment. My goal is to automate testing using PyTest and Selenium and create tests schema. In the future I am going to go deeper into back-end or cyber-security testing.
 
 ### I work as Product Manager. ###
-As a Product Manager I usually work on the use of leverage in sales in various distribution channels. I take care of the completeness of the offer and product development by conducting market research, competition analysis and the design of new functions and product improvements. I manage a product category, conduct market and competition analyzes, and follow trends. I conduct internal trainings, including the sales department. I take care of the brand image, create and supervise marketing campaigns.
+As a Product Manager in Malow (https://www.linkedin.com/in/kamil-marchel/), I usually work on the use of leverage in sales in various distribution channels. I take care of the completeness of the offer and product development by conducting market research, competition analysis and the design of new functions and product improvements. I manage a product category, conduct market and competition analyzes, and follow trends. I conduct internal trainings, including the sales department. I take care of the brand image, create and supervise marketing campaigns.
 
 <!--
 **grombor/grombor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,20 +20,28 @@ Here are some ideas to get you started:
 -->
 
 **#Experience**
-- Last Python project (under develop) - Web Scrapper: https://github.com/grombor/mc-webscrapper
-- Python project - Web Chat: https://github.com/grombor/python/tree/master/sockets
-- Python project - Checkers game: https://github.com/grombor/python/tree/master/checkers_challenge
+- (REACTjs/NEXTjs): my first e-commerce commercial project (ask for more info)
+- (Python) Web Scrapper: [https://github.com/grombor/mc-webscrapper](Web Scrapper)
+- (Python) Socket Offline Web Chat: [https://github.com/grombor/python-sockets](Socket Offline Web Chat)
+- (Python) Checkers game: [https://github.com/grombor/python/tree/master/checkers_challenge](Checkers game)
 - Marketing Manager / Tester at Clanhouse: A CRM app for car workshops https://github.com/Clanhouse/mecha-crm-app
-- I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of https://szkola.malow.com.pl/
-- I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of module automating the work of the remote batch render in the 3DS MAX program
-- I worked on update of a http://sai.5v.pl/ website: https://github.com/grombor/kazik
-- I develop my portfolio: https://grombor.github.io/
+- (Testing) I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of https://szkola.malow.com.pl/
+- (Testing) I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of module automating the work of the remote batch render in the 3DS MAX program
+- (Bootstrap, JQuery) Update of a http://sai.5v.pl/ website: https://github.com/grombor/kazik
+- (Bootstrap, JQuery) Portfolio https://grombor.github.io/
 
-
+**#Soft Skills:**
+- Critical Thinking and Analytical.
+- Leadership Skills and Accountability,
+- Flexibility and Adaptability and Self-Learning
+- Problem-solving
+- Time Management
+- Effective Communication, Collaboration and Teamwork
+- Patience
 
 **#Hard Skills:**
 - I am learning Python at the moment (+ Django + BeatifulSoup + PostGres + some Jenkins).
-- I am learnign about ISTQB (foudation level) and software testing. I am familliar with Manual testing (Postman and Selenium). 
+- I am familliar with Manual testing (Postman and Selenium). 
 - I find myself confident in documentation in english.
 - I finished Junior Web Developer Course (at John’s Academy.com)
 - I aquired Scrum Fundamentals Certified (SFC™) issued by SCRUMstudy 
