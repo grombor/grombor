@@ -59,6 +59,6 @@ Here are some ideas to get you started:
   
 
 **#How to reach me:**
-- 📃 [https://drive.google.com/file/d/1_i7I2T6Fu9h4bSBO7pmkhCvQPgkFF4Mw/view?usp=sharing] (my CV)
+- 📃 [https://drive.google.com/file/d/1_i7I2T6Fu9h4bSBO7pmkhCvQPgkFF4Mw/view?usp=sharing]:my CV
 - 📫 doparteru@gmail.com
-- 🔗 [https://grombor.github.io/] (Portfolio)
+- 🔗 Portfolio: [https://grombor.github.io/]
