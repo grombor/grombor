@@ -58,18 +58,7 @@ Here are some ideas to get you started:
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   
 
-**#Soft Skills:**
-- 🇬🇧 Very good written and spoken English. 
-- 📢 Good communication skills, openminded, enthusiast of new solutions.
-- 👨‍💼 Work in a marketing sections learnt me to be creative, assertive, business empathy, follow the trends and communicate with people by different teams and channels.
-- 🤔 I am trying to adapt an Agile mindset to my everyday work (being high productive, self-efficient and flexible).
-- 👷 I worked before as a leader/foreman in forestry and as a warehouse operative. I have engineer degree.
- 
-**#Free time:**
-- 👨‍👨‍👧 I work hard to be a good husband and super daddy!
-- 🍺 Brewing beer at home.
-
-
 **#How to reach me:**
-- 📫 email me: doparteru@gmail.com
-- 🔗 Please check my portfolio on https://grombor.github.io/ 
+- 📃 [https://drive.google.com/file/d/1_i7I2T6Fu9h4bSBO7pmkhCvQPgkFF4Mw/view?usp=sharing](CV)
+- 📫 doparteru@gmail.com
+- 🔗 [https://grombor.github.io/](Portfolio)
