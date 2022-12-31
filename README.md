@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **#Experience**
 - (REACTjs/NEXTjs): my first e-commerce commercial project (https://youtu.be/x1XJCbEXe4s)
-- (Python) Web Scrapper: [https://github.com/grombor/mc-webscrapper]
+- (Python) (https://github.com/grombor/mc-webscrapper)[Web Scrapper]
 - (Python) Socket Offline Web Chat: [https://github.com/grombor/python-sockets]
 - (Python) Checkers game: [https://github.com/grombor/python/tree/master/checkers_challenge]
 - Marketing Manager / Tester at Clanhouse: A CRM app for car workshops https://github.com/Clanhouse/mecha-crm-app
