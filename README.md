@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 **#Experience**
-- (REACTjs/NEXTjs): my first e-commerce commercial project (ask for more info)
+- (REACTjs/NEXTjs): my first e-commerce commercial project (https://youtu.be/x1XJCbEXe4s)
 - (Python) Web Scrapper: [https://github.com/grombor/mc-webscrapper](Web Scrapper)
 - (Python) Socket Offline Web Chat: [https://github.com/grombor/python-sockets](Socket Offline Web Chat)
 - (Python) Checkers game: [https://github.com/grombor/python/tree/master/checkers_challenge](Checkers game)
@@ -59,6 +59,6 @@ Here are some ideas to get you started:
   
 
 **#How to reach me:**
-- 📃 [https://drive.google.com/file/d/1_i7I2T6Fu9h4bSBO7pmkhCvQPgkFF4Mw/view?usp=sharing](CV)
+- 📃 [https://drive.google.com/file/d/1_i7I2T6Fu9h4bSBO7pmkhCvQPgkFF4Mw/view?usp=sharing] (my CV)
 - 📫 doparteru@gmail.com
-- 🔗 [https://grombor.github.io/](Portfolio)
+- 🔗 [https://grombor.github.io/] (Portfolio)
