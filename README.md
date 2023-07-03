@@ -56,6 +56,9 @@ As a Product Manager in Malow (https://www.linkedin.com/in/kamil-marchel/), I us
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40" />
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grombor)](https://github.com/anuraghazra/github-readme-stats)
+
 **#How to reach me:**
 
 - 📫 email me: doparteru@gmail.com
