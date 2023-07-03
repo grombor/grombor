@@ -58,7 +58,7 @@ As a Product Manager in Malow (https://www.linkedin.com/in/kamil-marchel/), I us
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grombor)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 **#How to reach me:**
 
