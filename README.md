@@ -1,14 +1,14 @@
 ## Hi, I am Kamil 🤗
 
 ### Skills and Experience:
-React: ❤❤♡
-Jira / Confluence: ❤❤♡
-Next.js: ❤❤♡
-Postman: ❤❤♡
-Bulma.io: ❤❤❤
-Python: ❤♡♡
-GitHub: ❤❤♡
-Chakra-UI: ❤♡♡
+React: ❤❤♡  
+Jira / Confluence: ❤❤♡  
+Next.js: ❤❤♡  
+Postman: ❤❤♡  
+Bulma.io: ❤❤❤  
+Python: ❤♡♡  
+GitHub: ❤❤♡  
+Chakra-UI: ❤♡♡  
 
 ### Education:
 
