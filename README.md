@@ -1,14 +1,51 @@
 ## Hi, I am Kamil 🤗
 
-I am currently working on two projects simultaneously. The first one is a web scraper written in Python, which allows me to gather data from various websites. The second project is an e-commerce project where I am writing code in ReactJS. This allows me to develop skills in both backend and frontend development.
+### Skills and Experience:
+React: ❤❤♡
+Jira / Confluence: ❤❤♡
+Next.js: ❤❤♡
+Postman: ❤❤♡
+Bulma.io: ❤❤❤
+Python: ❤♡♡
+GitHub: ❤❤♡
+Chakra-UI: ❤♡♡
 
-I have experience in creating responsive user interfaces and working with tools such as HTML, CSS, and JavaScript. I am dedicated and eager to learn new technologies. My goal is to continuously improve as a developer and contribute my skills to the development of innovative projects.
+### Education:
 
-I am seeking a Junior Web Developer position utilizing the ReactJS framework. If you are looking for a candidate who is ready to take on challenges, possesses technical skills, and has a strong desire for growth, then I am the right person to talk to!
+Scrum Fundamentals Certified (SFC™) and Junior Web Developer Course certificates
+Postgraduate studies in Occupational Safety and Health Management at the University of Economics in Białystok
+Bachelor's degree in Forestry Economics from the University of Agriculture in Krakow
 
-### I work as Product Manager.
+### Other skills:
 
-As a Product Manager in Malow (https://www.linkedin.com/in/kamil-marchel/), I usually work on the use of leverage in sales in various distribution channels. I take care of the completeness of the offer and product development by conducting market research, competition analysis and the design of new functions and product improvements. I manage a product category, conduct market and competition analyzes, and follow trends. I conduct internal trainings, including the sales department. I take care of the brand image, create and supervise marketing campaigns.
+Fluent in English. I conduct international meetings and create content as a Product Manager in my current role.
+Comfortable with English documentation.
+Team management skills. I have led teams ranging from 3 to 30 members.
+Strong problem-solving and communication skills.
+Consent for Data Processing:
+I consent to the processing of my personal data for the purposes necessary for the recruitment process, in accordance with the General Data Protection Regulation (GDPR) and the applicable data protection laws.
+
+## Experience as a Frontend Developer and highlights of my key projects:
+
+### Scrapper:
+
+Developing a webscrapper using the Next.js technology stack. You can review the source code here: link to repository.
+### E-commerce:
+
+Responsible for frontend development in an e-commerce project. Utilized Next.js and Bulma, faithfully reproducing the provided graphic designs in Figma. You can see the result of my work here: link to website.
+### Malow-Online:
+
+Involved in the creation and development of an internet platform that includes a website, product configurator, and product visualizer. Responsible for testing, deployment, and ongoing project development.
+### Arkance Automation:
+
+Worked on a program enabling application automation and adding textures to 3D models. The project also involved batch rendering support. Responsible for defining project requirements, creating user stories, and conducting acceptance testing.
+### mc-webscrapper:
+
+Developed a personal, independent command-line tool for data scraping from websites. This tool provides direct access to the World Wide Web using the HTTP protocol.
+### Clanhouse:
+
+Contributed to the development of a CRM application for automotive workshops called Clanhouse. Tasks included conducting meetings, market analysis, defining requirements and backlog, as well as testing API and integrations.
+Feel free to reach out to me for further details or to discuss potential opportunities.
 
 **#Experience**
 
