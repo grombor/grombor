@@ -13,7 +13,6 @@ Chakra-UI: ❤♡♡
 ### Education:
 
 Scrum Fundamentals Certified (SFC™) and Junior Web Developer Course certificates
-Postgraduate studies in Occupational Safety and Health Management at the University of Economics in Białystok
 Bachelor's degree in Forestry Economics from the University of Agriculture in Krakow
 
 ### Other skills:
@@ -21,7 +20,7 @@ Bachelor's degree in Forestry Economics from the University of Agriculture in Kr
 Fluent in English. I conduct international meetings and create content as a Product Manager in my current role.  
 Comfortable with English documentation.  
 Team management skills. I have led teams ranging from 3 to 30 members.  
-Strong problem-solving and communication skills.  
+Strong problem-solving and time management skills.  
 
 ## Experience as a Frontend Developer and highlights of my key projects:
 
@@ -62,4 +61,3 @@ Feel free to reach out to me for further details or to discuss potential opportu
 **#How to reach me:**
 
 - 📫 email me: doparteru@gmail.com
-- 🔗 Portfolio: https://grombor.github.io/
