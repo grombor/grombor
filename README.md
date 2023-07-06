@@ -18,12 +18,10 @@ Bachelor's degree in Forestry Economics from the University of Agriculture in Kr
 
 ### Other skills:
 
-Fluent in English. I conduct international meetings and create content as a Product Manager in my current role.
-Comfortable with English documentation.
-Team management skills. I have led teams ranging from 3 to 30 members.
-Strong problem-solving and communication skills.
-Consent for Data Processing:
-I consent to the processing of my personal data for the purposes necessary for the recruitment process, in accordance with the General Data Protection Regulation (GDPR) and the applicable data protection laws.
+Fluent in English. I conduct international meetings and create content as a Product Manager in my current role.  
+Comfortable with English documentation.  
+Team management skills. I have led teams ranging from 3 to 30 members.  
+Strong problem-solving and communication skills.  
 
 ## Experience as a Frontend Developer and highlights of my key projects:
 
