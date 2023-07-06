@@ -28,60 +28,23 @@ I consent to the processing of my personal data for the purposes necessary for t
 ## Experience as a Frontend Developer and highlights of my key projects:
 
 ### Scrapper:
-
 Developing a webscrapper using the Next.js technology stack. You can review the source code here: link to repository.
+
 ### E-commerce:
-
 Responsible for frontend development in an e-commerce project. Utilized Next.js and Bulma, faithfully reproducing the provided graphic designs in Figma. You can see the result of my work here: link to website.
+
 ### Malow-Online:
-
 Involved in the creation and development of an internet platform that includes a website, product configurator, and product visualizer. Responsible for testing, deployment, and ongoing project development.
+
 ### Arkance Automation:
-
 Worked on a program enabling application automation and adding textures to 3D models. The project also involved batch rendering support. Responsible for defining project requirements, creating user stories, and conducting acceptance testing.
+
 ### mc-webscrapper:
-
 Developed a personal, independent command-line tool for data scraping from websites. This tool provides direct access to the World Wide Web using the HTTP protocol.
+
 ### Clanhouse:
-
-Contributed to the development of a CRM application for automotive workshops called Clanhouse. Tasks included conducting meetings, market analysis, defining requirements and backlog, as well as testing API and integrations.
+Contributed to the development of a CRM application for automotive workshops called Clanhouse. Tasks included conducting meetings, market analysis, defining requirements and backlog, as well as testing API and integrations.  
 Feel free to reach out to me for further details or to discuss potential opportunities.
-
-**#Experience**
-
-## Team & commerce projects:
-
-- ⚛ (REACTjs/NEXTjs): my first e-commerce commercial project (https://youtu.be/x1XJCbEXe4s)
-- ⚛ (REACTjs): Marketing Manager / Tester at Clanhouse: A CRM app for car workshops [https://github.com/Clanhouse/mecha-crm-app]. My first steps in frontend 😉
-- 🐛 (Testing) I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of [https://szkola.malow.com.pl/] and [https://malow.com.pl/]
-- 🐛 (Testing) I prepared a specification and conducted tests, including User Acceptance Testing (UAT) of module automating the work of the remote batch render in the 3DS MAX program
-
-## Solo & hobby projects:
-
-- 🐍 (Python) Web Scrapper: [https://github.com/grombor/mc-webscrapper]
-- 🐍 (Python) Socket Offline Web Chat: [https://github.com/grombor/python-sockets]
-- 🐍 (Python) Checkers game: [https://github.com/grombor/python/tree/master/checkers_challenge]
-- 🕸 (Bootstrap, JQuery) Update of a [http://sai.5v.pl/] website: [https://github.com/grombor/kazik]
-- 🕸 (Bootstrap, JQuery) Portfolio [https://grombor.github.io/]
-
-**#Soft Skills:**
-
-- Critical Thinking and Analytical.
-- Leadership Skills and Accountability,
-- Flexibility and Adaptability and Self-Learning
-- Problem-solving
-- Time Management
-- Effective Communication, Collaboration and Teamwork
-- Patience
-
-**#Hard Skills:**
-
-- I am learning Python at the moment (+ Django + BeatifulSoup + PostGres + some Jenkins).
-- I am familliar with Manual testing (Postman and Selenium).
-- I find myself confident in documentation in english.
-- I finished Junior Web Developer Course (at John’s Academy.com)
-- I aquired Scrum Fundamentals Certified (SFC™) issued by SCRUMstudy
-- I aquired CGE Certified Product Manager - Faculty of Management, issued by Warsaw University of Technology
 
 **#Languages and Tools:**
 
