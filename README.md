@@ -26,7 +26,8 @@ Strong problem-solving and time management skills.
 # Experience as a Frontend Developer and highlights of my key projects:
 
 ### Griard Design Landing page
-live: [https://raw.githack.com/grombor/giarddesign/main/index.html](Giard Design Landing page Live)
+The goal of this project was to create a modern and responsive landing page. Website based on pure HTML code, uses Tailwind CSS, Macy.JS, BigPicture.JS libraries
+You can see the result of my work here: [https://raw.githack.com/grombor/giarddesign/main/index.html] (Giard Design Live)
 
 ### Scrapper:
 Developing a webscrapper using the Next.js technology stack.  You can review the source code here: 
