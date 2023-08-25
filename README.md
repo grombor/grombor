@@ -27,7 +27,7 @@ Strong problem-solving and time management skills.
 
 ### Griard Design Landing page
 The goal of this project was to create a modern and responsive landing page. Website based on pure HTML code, uses Tailwind CSS, Macy.JS, BigPicture.JS libraries
-You can see the result of my work here: [Giard Design Live](https://raw.githack.com/grombor/giarddesign/main/)
+You can see the result of my work here: [Giard Design](https://raw.githack.com/grombor/giarddesign/main/)
 
 ### StartupZ Landing page
 The goal of this project was to create a modern and responsive landing page. Website based on pure HTML, CSS and JS. No external libraries.
