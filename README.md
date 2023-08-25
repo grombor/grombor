@@ -34,7 +34,7 @@ Developing a webscrapper using the Next.js technology stack.  You can review the
 https://github.com/grombor/nextScrapper
 
 ### E-commerce:
-Responsible for frontend development in an e-commerce project. Utilized Next.js and Bulma, faithfully reproducing the provided graphic designs in Figma.  You can see the result of my work here: [http://sklep.abes.com.pl/](http://sklep.abes.com.pl/)
+Responsible for frontend development in an e-commerce project. Utilized Next.js and Bulma, faithfully reproducing the provided graphic designs in Figma.  You can see the result of my work here: [Sklep Abes](http://sklep.abes.com.pl/)
 
 ### Malow-Online:
 Involved in the creation and development of an internet platform that includes a website, product configurator, and product visualizer. Responsible for testing, deployment, and ongoing project development.  You can see the result of my work here: [http://malow.com.pl/](http://malow.com.pl/)
