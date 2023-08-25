@@ -4,7 +4,8 @@
 React: ❤❤♡  
 Jira / Confluence: ❤❤♡  
 Next.js: ❤❤♡  
-Postman: ❤❤♡  
+Postman: ❤❤♡
+Tailwind CSS: ❤❤♡
 Bulma.io: ❤❤❤  
 Python: ❤♡♡  
 GitHub: ❤❤♡  
@@ -23,6 +24,9 @@ Team management skills. I have led teams ranging from 3 to 30 members.
 Strong problem-solving and time management skills.  
 
 # Experience as a Frontend Developer and highlights of my key projects:
+
+### Griard Design Landing page
+live: [https://raw.githack.com/grombor/giarddesign/main/index.html](Giard Design Landing page Live)
 
 ### Scrapper:
 Developing a webscrapper using the Next.js technology stack.  You can review the source code here: 
