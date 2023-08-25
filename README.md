@@ -37,7 +37,7 @@ https://github.com/grombor/nextScrapper
 Responsible for frontend development in an e-commerce project. Utilized Next.js and Bulma, faithfully reproducing the provided graphic designs in Figma.  You can see the result of my work here: [Sklep Abes](http://sklep.abes.com.pl/)
 
 ### Malow-Online:
-Involved in the creation and development of an internet platform that includes a website, product configurator, and product visualizer. Responsible for testing, deployment, and ongoing project development.  You can see the result of my work here: [http://malow.com.pl/](http://malow.com.pl/)
+Involved in the creation and development of an internet platform that includes a website, product configurator, and product visualizer. Responsible for testing, deployment, and ongoing project development.  You can see the result of my work here: [Malow Online](http://malow.com.pl/)
 
 ### Arkance Automation:
 Worked on a program enabling application automation and adding textures to 3D models. The project also involved batch rendering support. Responsible for defining project requirements, creating user stories, and conducting acceptance testing.
