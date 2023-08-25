@@ -27,23 +27,23 @@ Strong problem-solving and time management skills.
 
 ### Griard Design Landing page
 The goal of this project was to create a modern and responsive landing page. Website based on pure HTML code, uses Tailwind CSS, Macy.JS, BigPicture.JS libraries
-You can see the result of my work here: : [https://raw.githack.com/grombor/giarddesign/main](Giard Design Live)
+You can see the result of my work here: [https://raw.githack.com/grombor/giarddesign/main/](Giard Design Live)
 
 ### Scrapper:
 Developing a webscrapper using the Next.js technology stack.  You can review the source code here: 
 https://github.com/grombor/nextScrapper
 
 ### E-commerce:
-Responsible for frontend development in an e-commerce project. Utilized Next.js and Bulma, faithfully reproducing the provided graphic designs in Figma.  You can see the result of my work here: : [http://sklep.abes.com.pl/](http://sklep.abes.com.pl/)
+Responsible for frontend development in an e-commerce project. Utilized Next.js and Bulma, faithfully reproducing the provided graphic designs in Figma.  You can see the result of my work here: [http://sklep.abes.com.pl/](http://sklep.abes.com.pl/)
 
 ### Malow-Online:
-Involved in the creation and development of an internet platform that includes a website, product configurator, and product visualizer. Responsible for testing, deployment, and ongoing project development.  You can see the result of my work here: : [http://malow.com.pl/](http://malow.com.pl/)
+Involved in the creation and development of an internet platform that includes a website, product configurator, and product visualizer. Responsible for testing, deployment, and ongoing project development.  You can see the result of my work here: [http://malow.com.pl/](http://malow.com.pl/)
 
 ### Arkance Automation:
 Worked on a program enabling application automation and adding textures to 3D models. The project also involved batch rendering support. Responsible for defining project requirements, creating user stories, and conducting acceptance testing.
 
 ### mc-webscrapper:
-Developed a personal, independent command-line tool for data scraping from websites. This tool provides direct access to the World Wide Web using the HTTP protocol.  You can see the result of my work here: : [https://github.com/grombor/mc-webscrapper](https://github.com/grombor/mc-webscrapper)
+Developed a personal, independent command-line tool for data scraping from websites. This tool provides direct access to the World Wide Web using the HTTP protocol.  You can see the result of my work here: [https://github.com/grombor/mc-webscrapper](https://github.com/grombor/mc-webscrapper)
 
 ### Clanhouse:
 Contributed to the development of a CRM application for automotive workshops called Clanhouse. Tasks included conducting meetings, market analysis, defining requirements and backlog, as well as testing API and integrations.  You can see the result of my work here: : [https://github.com/grombor/motomo](https://github.com/grombor/motomo)
