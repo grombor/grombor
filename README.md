@@ -1,4 +1,6 @@
 ## Hi, I am Kamil 🤗
+I am an experienced software engineer with a passion for programming. My skills include developing open-source projects, creating the highest quality software and working effectively in programming teams. I successfully mastered technologies such as Python, JavaScript, HTML, CSS and frameworks such as React and Next, which allowed me to achieve success in many IT projects. Thanks to my commitment, willingness to learn, analytical thinking and experience, I would like to support software development teams.
+My goals are to gain experience, improve skills in creating interactive UIs and actively participate in projects to become a more independent and helpfull for team.
 
 ### Skills and Experience:
 React: ❤❤♡  
